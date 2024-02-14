@@ -4,11 +4,12 @@ My name is Emily Hamling and I am a sophmore at the University of Iowa. I am get
 ### I am learning how to use github.
 This is fun! 😹
 # One
-## Two
-My ==passion== is business analytics.
-~~I like learning new things.~~
-My favorite things 
+Mypassion is business analytics.
+~~Yay.~~
+## My favorite things 
 1. Orange
 2. Math
 3. Swimming
+
+### Statement
 **I am excited to learn more in Github**
